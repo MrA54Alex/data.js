@@ -60,6 +60,7 @@ farben = farben.concat(farben);
 farbsatz=Math.floor(Math.random()*(farbbibliothek.length-0.0001)); 
 } 
 setInterval("farbtauscher()",5000); 
-text= " Vietnamese Hacker, MR.A54
+text= " Vietnamese Hacker, MR.A54 "; //h 
+string2array(text); 
 divserzeugen();
 //document.write(text); 
